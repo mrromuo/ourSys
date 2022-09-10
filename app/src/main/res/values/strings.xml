@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Our Solar System</string>
+    <string name="solarsystem">The Solar System</string>
+    <string name="aboutme">About Me</string>
+    <string name="privecypolcy">Privacy Policy</string>
+    <string name="gotoexsam">Test your knowledge about the solar system</string>
+    <string name="videogallery">Video Gallery</string>
+    <string name="photogallery">Photo Gallery</string>
+    <string name="comingsoon">coming soon</string>
+    <string-array name="selectingmain">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Asteroid belt</item>
+        <item>Ceres</item>
+        <item>Jupiter </item>
+        <item>Saturn </item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Pluto</item>
+    </string-array>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">مجموعتنا الشمسية</string>
+    <string name="solarsystem">المجموعة الشمسية</string>
+    <string name="aboutme">عني</string>
+    <string name="privecypolcy">سياسة الخصوصية</string>
+    <string name="gotoexsam">اختبر معلوماتك حول النظام الشمسي</string>
+    <string name="videogallery">معرض الفيديو</string>
+    <string name="photogallery">معرض الصور</string>
+    <string name="comingsoon">قريبا!!</string>
+    <string-array name="selectingmain">
+        <item>الشمس</item>
+        <item>عطارد</item>
+        <item>الزهرة</item>
+        <item>الأرض</item>
+        <item>المريخ</item>
+        <item>حزام الكويكبات</item>
+        <item>سيريس</item>
+        <item>المشتري </item>
+        <item>زحل </item>
+        <item>اورانس</item>
+        <item>نبيتون</item>
+        <item>بلوتو</item>
+    </string-array>
+</resources>

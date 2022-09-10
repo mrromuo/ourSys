@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linerlayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".PlanetViewr">
+
+
+    <TextView
+        android:id="@+id/PlantViewText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="TextView"
+        android:textSize="@dimen/titels"
+        android:textStyle="bold" />
+
+
+    <ImageView
+        android:id="@+id/PlantViewImage"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/mainimageheight"
+        app:srcCompat="@drawable/asteroidbilt250" />
+
+    <WebView
+        android:id="@+id/PlantViewWeb"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/cardview_shadow_end_color"
+        android:isScrollContainer="true"
+        android:padding="3dp" />
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/three"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="@string/gotoexsam" />
+    <item
+        android:id="@+id/four"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="@string/videogallery" />
+    <item
+        android:id="@+id/five"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="@string/photogallery" />
+    <item
+        android:id="@+id/one"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="@string/aboutme" />
+    <item
+        android:id="@+id/two"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="@string/privecypolcy" />
+</menu>
